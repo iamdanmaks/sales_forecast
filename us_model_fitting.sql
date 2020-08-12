@@ -1,4 +1,4 @@
-  /* обучаем модель (ARIMA) для прогнозирования конкретной группы товаров */
+  /* обучаем модель (ARIMA) для прогнозирования продаж в США */
 CREATE OR REPLACE MODEL
   `twc-bi-education.sales_data_2.sales_us` OPTIONS(MODEL_TYPE='ARIMA',
     -- задаём колонку с датами и данными для прогноза
