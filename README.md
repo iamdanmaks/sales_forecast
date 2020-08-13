@@ -1,2 +1,2 @@
-# sales_forecast
-Time series analysis and forecast
+# Sales Forecast Project Using Google's Big Query and Python
+
