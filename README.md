@@ -12,6 +12,6 @@ Folder **us_sales** contain SQL queries for dataset with gifts sales in USA. The
 
 **Notebooks** folder contains Jupyter Notebooks with some additional research on time series stationarity. You can find code to count **Sample Entropy** there. Also, the **ADF test** was done in these notebooks, which prooved the stationarity of given data. **Test for seasonality** was performed there too. It showed that data is pretty similar each half a year.
 
-Data studio reports links:
+Reports visualize queries from this repository and how some research performed on data. You can find models comparisons, calculations of time series statistics, MAPE scores of created models. Data studio reports links:
 * [First one](https://datastudio.google.com/reporting/9ddc4bbd-a368-4d96-aca7-9b7ca15a66a1)
 * [Second one](https://datastudio.google.com/reporting/a948f72b-a16e-4dea-adc0-d93683820566)
